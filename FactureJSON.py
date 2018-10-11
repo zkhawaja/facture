@@ -42,4 +42,4 @@ def JSON(fichier):
                     file.write(json.dumps(dict)+"\n")
                     listdict.clear()
 
-JSON(r'C:\Users\Fitec\Desktop\python\exo\data.csv')
+JSON(r'exo\data.csv')
